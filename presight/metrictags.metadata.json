@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"metricId":{"$numberInt":"1"},"tagId":{"$numberInt":"1"}},"name":"metricId_1_tagId_1","background":true,"unique":true}],"uuid":"1b263d257b694fa0babb1c9637c4ed9b","collectionName":"metrictags","type":"collection"}

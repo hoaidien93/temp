@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"7554649e2f2d4928b7d40951cd197615","collectionName":"slackworkspaces","type":"collection"}

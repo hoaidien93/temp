@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"workspaceId":{"$numberInt":"1"}},"name":"workspaceId_1","background":true}],"uuid":"8d62d51857d747a4a84a545935e2bf43","collectionName":"buckets","type":"collection"}
